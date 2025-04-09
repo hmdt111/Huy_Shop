@@ -1,0 +1,20 @@
+﻿@model UserModel
+
+@{
+    ViewData["Title"] = "Email Confirmation Sent";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-info">
+    <p>
+        Chúng tôi đã gửi một email đến <strong>@Model.Email</strong> để xác nhận tài khoản của bạn.
+        Vui lòng kiểm tra hộp thư đến của bạn (có thể ở thư mục Spam) và làm theo hướng dẫn để hoàn tất quá trình đăng ký.
+    </p>
+    <p>
+        Nếu bạn không nhận được email, bạn có thể thử gửi lại bằng cách nhấn vào nút dưới đây:
+    </p>
+    <form method="post" asp-action="ResendConfirmationEmail" asp-controller="Account">
+        <button type="submit" class="btn btn-primary">Gửi lại email xác nhận</button>
+    </form>
+</div>

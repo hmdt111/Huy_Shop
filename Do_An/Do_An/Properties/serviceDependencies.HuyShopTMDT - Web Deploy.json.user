@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2025-03-24T16:29:37.6697138Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6f3ee9ed-2916-4af0-8371-cb0d1f769690"
+    },
+    "HuyShopTMDT.resourceGroupName": {
+      "Name": "HuyShopTMDT.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Web"
+    },
+    "HuyShopTMDT.resourceGroupLocation": {
+      "Name": "HuyShopTMDT.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastasia"
+    },
+    "HuyShopTMDT.subscriptionId": {
+      "Name": "HuyShopTMDT.subscriptionId",
+      "Type": "subscription",
+      "Value": "6f3ee9ed-2916-4af0-8371-cb0d1f769690"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Web"
+    },
+    "HuyShopTMDT.resourceName": {
+      "Name": "HuyShopTMDT.resourceName",
+      "Type": null,
+      "Value": "HuyShopTMDT"
+    }
+  }
+}

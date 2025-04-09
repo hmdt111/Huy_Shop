@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Do_An.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Do_An.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\images\\banner 1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\images\\banner 2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\images\\banner 3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\images\\banner shop.jpg",
+      "PackagePath": "staticwebassets\\images\\banner shop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\images\\logo layout.png",
+      "PackagePath": "staticwebassets\\images\\logo layout.png"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\36536448-289a-4128-b32d-39f25d405f5a_samsung-galaxy-book-pro-15-2021-2-1639379162-laptop365-_4c2354c3-990b-46d3-b65b-38ce3c522176.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\36536448-289a-4128-b32d-39f25d405f5a_samsung-galaxy-book-pro-15-2021-2-1639379162-laptop365-_4c2354c3-990b-46d3-b65b-38ce3c522176.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\41685153-b931-4c4c-8852-2f33d8363e03_Macbook_Air_2024.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\41685153-b931-4c4c-8852-2f33d8363e03_Macbook_Air_2024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\4414d6d7-9601-4838-844d-70b19ae989ed_g502-hero-gallery-2-nb.png",
+      "PackagePath": "staticwebassets\\media\\products\\4414d6d7-9601-4838-844d-70b19ae989ed_g502-hero-gallery-2-nb.png"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\59ca7c9f-80cc-4144-9a9e-e250364385a6_macbook-pro-16-inch-2023.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\59ca7c9f-80cc-4144-9a9e-e250364385a6_macbook-pro-16-inch-2023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\5c16860e-2a09-4b58-b1a8-a77c0a7a1f1f_apple-watch-s10-lte-day-silicone-bac-tb-600x600.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\5c16860e-2a09-4b58-b1a8-a77c0a7a1f1f_apple-watch-s10-lte-day-silicone-bac-tb-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\62e01d3e-76a0-4fff-8864-b9fb793962e8_picture-1716255340.png",
+      "PackagePath": "staticwebassets\\media\\products\\62e01d3e-76a0-4fff-8864-b9fb793962e8_picture-1716255340.png"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\6b32385e-0524-4028-ba49-aa113a44e825_MXM63ref_FV98_VW_34FR+watch-case-44-aluminum-starlight-nc-se_VW_34FR+watch-face-44-aluminum-starlight-se_VW_34FR.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\6b32385e-0524-4028-ba49-aa113a44e825_MXM63ref_FV98_VW_34FR+watch-case-44-aluminum-starlight-nc-se_VW_34FR+watch-face-44-aluminum-starlight-se_VW_34FR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\97c06ff4-d87f-4220-bb51-cb22ecae8904_redesigned-MacBook-Pro-2.jpeg",
+      "PackagePath": "staticwebassets\\media\\products\\97c06ff4-d87f-4220-bb51-cb22ecae8904_redesigned-MacBook-Pro-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\c285e975-385a-4659-ab72-dd0ab93aa774_chuot-logitech-g-pro-x-superlight-wireless-pink--1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c285e975-385a-4659-ab72-dd0ab93aa774_chuot-logitech-g-pro-x-superlight-wireless-pink--1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\c6db2495-bafd-47df-b85e-605d66380cd6_442897720.jpeg",
+      "PackagePath": "staticwebassets\\media\\products\\c6db2495-bafd-47df-b85e-605d66380cd6_442897720.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\media\\products\\e65d4442-b53e-4f82-83df-292b131b7957_0034095_macbook-air-m2-13-inch-8-core-gpu-16gb-ram-256gb-ssd.png",
+      "PackagePath": "staticwebassets\\media\\products\\e65d4442-b53e-4f82-83df-292b131b7957_0034095_macbook-air-m2-13-inch-8-core-gpu-16gb-ram-256gb-ssd.png"
+    },
+    {
+      "Id": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\wwwroot\\notfound\\css\\site.css",
+      "PackagePath": "staticwebassets\\notfound\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Do_An.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Do_An.props",
+      "PackagePath": "build\\Do_An.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Do_An.props",
+      "PackagePath": "buildMultiTargeting\\Do_An.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Do_An.props",
+      "PackagePath": "buildTransitive\\Do_An.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
