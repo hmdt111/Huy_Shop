@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\checkoutmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\checkoutmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\areas\\admin\\models\\categorysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\areas\\admin\\models\\categorysingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\areas\\admin\\models\\brandsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\areas\\admin\\models\\brandsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\checkoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\checkoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\cartbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\cartbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\cartitembuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\cartitembuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\productiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\productiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\productproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\productproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\pattern\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\pattern\\iorderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|c:\\users\\84859\\desktop\\shop1\\do_an\\do_an\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB46AC1-6D93-4E81-AAB2-D7E12D7C8B27}|Do_An\\Do_An.csproj|solutionrelative:do_an\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Do_An\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Do_An\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:58:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Do_An\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Do_An\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T16:20:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Do_An\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Do_An\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T16:20:31.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Do_An\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Do_An\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwDcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:15:20.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Program.cs",
+              "RelativeDocumentMoniker": "Do_An\\Program.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Program.cs",
+              "RelativeToolTip": "Do_An\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:49:03.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "Do_An\\Models\\BrandModel.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Models\\BrandModel.cs",
+              "RelativeToolTip": "Do_An\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:34:24.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Do_An\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "Do_An\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:33:34.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\appsettings.json",
+              "RelativeDocumentMoniker": "Do_An\\appsettings.json",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\appsettings.json",
+              "RelativeToolTip": "Do_An\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T11:52:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategorySingleton.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Models\\CategorySingleton.cs",
+              "RelativeDocumentMoniker": "Do_An\\Areas\\Admin\\Models\\CategorySingleton.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Models\\CategorySingleton.cs",
+              "RelativeToolTip": "Do_An\\Areas\\Admin\\Models\\CategorySingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:23:36.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Models\\BrandSingleton.cs",
+              "RelativeDocumentMoniker": "Do_An\\Areas\\Admin\\Models\\BrandSingleton.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Models\\BrandSingleton.cs",
+              "RelativeToolTip": "Do_An\\Areas\\Admin\\Models\\BrandSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:23:18.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Do_An\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Do_An\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T17:03:13.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Do_An\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Do_An\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:09:20.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Do_An\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Do_An\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:00:46.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Do_An\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Do_An\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:48:10.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckoutMediator.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CheckoutMediator.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\CheckoutMediator.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CheckoutMediator.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\CheckoutMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:01:12.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\IIterator.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\IIterator.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\IIterator.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:01:09.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\IMediator.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\IMediator.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\IMediator.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\IMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:01:08.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\OrderService.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\OrderService.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\OrderService.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\OrderService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:59.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductCollection.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductCollection.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\ProductCollection.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductCollection.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\ProductCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductFacade.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductFacade.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\ProductFacade.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductFacade.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\ProductFacade.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:58.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductIterator.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductIterator.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\ProductIterator.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductIterator.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\ProductIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:58.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductProxy.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductProxy.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\ProductProxy.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\ProductProxy.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\ProductProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:57.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CartBuilder.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\CartBuilder.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CartBuilder.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\CartBuilder.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:57.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartItemBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CartItemBuilder.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\CartItemBuilder.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CartItemBuilder.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\CartItemBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:55.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CartService.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\CartService.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CartService.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:54.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckoutRequest.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CheckoutRequest.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\CheckoutRequest.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\CheckoutRequest.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\CheckoutRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\EmailService.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\EmailService.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\EmailService.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:00:50.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Do_An\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Do_An\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:59:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderState.cs",
+              "DocumentMoniker": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\IOrderState.cs",
+              "RelativeDocumentMoniker": "Do_An\\Pattern\\IOrderState.cs",
+              "ToolTip": "C:\\Users\\84859\\Desktop\\Shop1\\Do_An\\Do_An\\Pattern\\IOrderState.cs",
+              "RelativeToolTip": "Do_An\\Pattern\\IOrderState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:59:07.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
